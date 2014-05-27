@@ -38,3 +38,10 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+
+#group :development do
+#  gem "debugger"
+#end
+
+#gem "debugger", :group => :debugger
+#gem "pry",	:group => :pry
